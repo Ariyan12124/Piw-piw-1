@@ -6,7 +6,7 @@ module.exports = {
         name: "permission",
         aliases:["own"],
         version: "1.1",
-        author: "♡︎ 𝐻𝐴𝑆𝐴𝑁 ♡︎",
+        author: "♡︎ 𝐆𝐨𝐣𝐨 𝐱 𝐙𝐞𝐧𝐢𝐭𝐬𝐮 ♡︎",
         countDown: 5,
         role: 2,
         category: "owner",
