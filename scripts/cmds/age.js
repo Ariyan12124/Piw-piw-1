@@ -5,7 +5,7 @@ module.exports = {
     name: "age",
     aliases: [],
     version: "1.1",
-    author: "Amit Max ⚡",
+    author: "Gᴏᴊᴏ x Zᴇɴɪᴛsᴜ",
     countDown: 5,
     role: 0,
     shortDescription: "Check age with style",
