@@ -16,22 +16,22 @@ module.exports = {
     const time = new Date().toLocaleString('en-US', { timeZone: 'Asia/Dhaka' });
 
     const profile = `
-『 𝗔𝗠𝗜𝗧 𝗠𝗔𝗫 ⚡ 』
+『 𝗚𝗢𝗝𝗢 𝗫 𝗭𝗲𝗻𝗶𝘁𝘀𝘂 』
 
-• Name: Amit Max ⚡  
-• Class: Inter 1st  
-• Group: Accounting  
+• Name: Gojo x Zenitsu ⚡  
+• Class: Secret  
+• Group: secret  
 • Gender: Male  
-• DOB: 18-05-2006  
-• Religion: Sanatan  
-• Blood: AB+  
+• DOB: 17-12-2003 
+• Religion: muslim  
+• Blood: x  
 • Height: 5.5 ft  
-• Location: Khoksa, Kushtia  
+• Location: Dhaka  
 • Hobby: Flirting  
 • Status: Single  
-• FB: fb.com/share/1564YX2VyT/  
-• IG: instagram.com/amitmax44  
-• Email: maxamit279@gmail.com  
+• FB: fb.com/share/61580336378735/  
+• IG: instagram.com/gojosaturo  
+• Email: piwpiw@gmail.com  
 
 ⏰ Time: ${time}`;
 
