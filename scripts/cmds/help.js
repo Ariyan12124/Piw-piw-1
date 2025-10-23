@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "help",
     version: "1.0",
-    author: "𝐙𝐞𝐧𝐢𝐭𝐬𝐮 𝐗 𝐏𝐢𝐰 𝐏𝐢𝐰",
+    author: "Gojo x Zenitsu",
     countDown: 5,
     role: 0,
     shortDescription: { en: "Show all command list" },
