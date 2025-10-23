@@ -91,7 +91,7 @@ module.exports = {
 │ 🔶 ${stylizeSmallCaps(config.name)}
 ├── INFO
 │ 📝 Description: ${desc}
-│ 👑 Author: ${config.author || "Unknown"}
+│ 👑 Author: ${config.author || "Gojo x Zenitsu"}
 │ ⚙ Guide: ${usage}
 ├── USAGE
 │ 🔯 Version: ${config.version || "1.0"}
