@@ -6,7 +6,7 @@ module.exports = {
 	config: {
 		name: "join",
 		version: "2.0",
-		author: "Amit Max ⚡",  // তোমার নাম
+		author: "𝖯𝗂𝗐 𝖯𝗂𝗐 𝖢𝗁𝖺𝗍 𝖡𝗈𝗍",  // তোমার নাম
 		countDown: 5,
 		role: 2,
 		shortDescription: "Join the group that bot is in",
