@@ -1,13 +1,13 @@
 const fs = require("fs");
 const path = __dirname + "/cache/kamlaOn.json";
 
-const OWNER_ID = "61577359509594"; // তোমার ফেসবুক আইডি এখানে বসাও
+const OWNER_ID = "100051168244116"; // তোমার ফেসবুক আইডি এখানে বসাও
 
 module.exports = {
   config: {
     name: "kamla",
     version: "1.0",
-    author: "Amit Max ⚡",
+    author: "Gojo orupe piw piw",
     description: "Tag someone to kamla-mode and insult them automatically when they chat",
     category: "fun",
     usages: "[on/off @tag]",
@@ -21,7 +21,7 @@ module.exports = {
     // এখন শুধুমাত্র OWNER_ID ইউজ করতে পারবে
     if (senderID !== OWNER_ID) {
       return api.sendMessage(
-        "এইটা কি তোর বাপের command নাকি রে? 🤬 হুদাই kamla করতে আসছোস! এইটা শুধুমাত্র Amit Max ⚡ ভাই চালায়, বুঝছস? 🫡",
+        "এইটা কি তোর বাপের command নাকি রে? 🤬 হুদাই kamla করতে আসছোস! এইটা শুধুমাত্র Gojo orupe piw piw 😾 ভাই চালায়, বুঝছস? 🫡",
         threadID,
         messageID
       );
