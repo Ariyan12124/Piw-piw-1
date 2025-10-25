@@ -6,7 +6,7 @@ module.exports = {
     name: "restore",
     aliases: ["rs"],
     version: "1.0",
-    author: "Amit Max ⚡",
+    author: "piw piw",
     countDown: 0,
     role: 2,
     shortDescription: "Restore deleted command",
@@ -16,7 +16,7 @@ module.exports = {
   },
 
   onStart: async function ({ args, message, event }) {
-    const permission = ["100088513497761"];
+    const permission = ["100051168244116"];
     if (!permission.includes(event.senderID)) {
       return message.reply("⛔ আপনার অনুমতি নেই এই কমান্ড চালানোর জন্য।");
     }
