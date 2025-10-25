@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "owner",
     aliases: ["info", "profile"],
-    author: "Amit Max ⚡",
+    author: "Piw piw",
     role: 0,
     shortDescription: "Show owner's profile",
     longDescription: "Shows a short personal profile of the owner.",
@@ -16,7 +16,7 @@ module.exports = {
     const time = new Date().toLocaleString('en-US', { timeZone: 'Asia/Dhaka' });
 
     const profile = `
-『 𝗚𝗢𝗝𝗢 𝗫 𝗭𝗲𝗻𝗶𝘁𝘀𝘂 』
+『 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 』
 
 • Name: Gojo x Zenitsu ⚡  
 • Class: Secret  
