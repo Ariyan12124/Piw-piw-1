@@ -7,7 +7,7 @@ module.exports = {
     name: "autodown",
     aliases: ["autodl"],
     version: "1.6.9",
-    author: "Nazrul",
+    author: "piw piw",
     role: 0,
     description: "Auto-download media from any  platform",
     category: "media",
