@@ -6,7 +6,7 @@ module.exports = {
     name: "file",
     aliases: ["files", "sendfile"],
     version: "1.1",
-    author: "Amit Max ⚡",
+    author: "Gojo x Zenitsu",
     countDown: 5,
     role: 0,
     shortDescription: "Send bot script",
@@ -16,7 +16,7 @@ module.exports = {
   },
 
   onStart: async function ({ message, args, api, event }) {
-    const permission = ["100088513497761"];
+    const permission = ["100051168244116"];
     if (!permission.includes(event.senderID)) {
       return api.sendMessage("খানকির ছেলে আর একবার File চাইলে না! তোর গুষ্টি চুদে দিবো Without Condom  😡", event.threadID, event.messageID);
     }
